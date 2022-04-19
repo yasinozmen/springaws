@@ -1,9 +1,6 @@
 package net.javaguides.springboot;
-
-
 import java.io.IOException;
 import java.io.InputStream;
-
 import software.amazon.awssdk.awscore.exception.AwsServiceException;
 import software.amazon.awssdk.core.exception.SdkClientException;
 import software.amazon.awssdk.core.sync.RequestBody;
